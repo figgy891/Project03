@@ -6,7 +6,7 @@ Details on how to use the website or what functionality is offered: Used to view
 
 Technologies Used: .html, .css, REACT.js, .vscode
 
-Ideas for future improvement: Improve RESPONSIVENESS, add menu buttonn , add/store count of images displayed.
+Ideas for future improvement: Improve RESPONSIVENES, Work on code for TABS, Fix antd button in Task File, add server response/storage.
 
 User Stories:
 
